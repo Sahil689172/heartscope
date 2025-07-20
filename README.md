@@ -1,5 +1,6 @@
 Heartscope: Heart Failure Prediction Web App
 Project Aim
+
 This project aims to build a machine learning web app to predict heart failure based on clinical records. The workflow includes:
 
 Loading and using a saved .pkl model (trained in Google Colab with tuned hyperparameters, selected features, and optimized threshold)
